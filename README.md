@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ Aspiring Software Engineer<br>🤝 I’m looking to collaborate on open-source and hackathons.<br>🧩 I’m looking for help with backend and system design.<br>💬 I’m looking for SWE internships and web dev opportunities<br> <br>⚡ Fun fact - I like dim sum.
+🖥️ Aspiring Software Engineer<br>🤝 I’m looking to collaborate on open-source and hackathons.<br>💬 I’m looking for SWE internships and web dev opportunities<br>🧩 Excited to keep learning!<br> <br>⚡ Fun fact - I like dim sum.
 
 
 ## 🌐 Socials:
